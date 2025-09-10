@@ -1,6 +1,6 @@
 ## Usage 
 
-Enter a pattern in `pattern.txt` and run the program. \
+1.Enter a pattern in `pattern.txt` and run the program. \
 Example:
   - 22222
   - 10101
@@ -9,8 +9,9 @@ Example:
   - 00010
   - 00102
 
-Make sure `valid-wordle-words.txt` is in the same directory. \
-Run the program. \
+2.Make sure `valid-wordle-words.txt` is in the same directory. \
+3.Run the program. 
+
 Symbols:
    - `0` = gray 
    - `1` = yellow
