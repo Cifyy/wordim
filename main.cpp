@@ -181,6 +181,6 @@ int main()
             cout << i + 1 << ". " << candidates[i][0] << endl;
         }
     }
-
+    system("pause");
     return 0;
 }
